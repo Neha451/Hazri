@@ -100,7 +100,7 @@ body {
 <div class="hero"> 
 <div class="menu-bar">
  <ul>
- <li><a href="Home.aspx">HOME</a>
+ <li><a href="/">HOME</a>
  <li><a href="#">LOGIN</a>
  <div class="sub-menu-1">
  
